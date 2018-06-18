@@ -6,7 +6,7 @@ Wavelets with adaptive recursive partitioning applied to image reconstruction (b
 - Let `path` be the directory containing the header file of `armadillo`; 
 - Compile the c++ code for matlab by running the code `mex_this(path)`. 
 
-# Insturctions for R users
+# Instructions for R users
 - Please refer to https://github.com/dcbdan/WARP for the R package. 
 
 # 2D example
